@@ -1,0 +1,4 @@
+Model,Total Entity Words,Total Subwords,Subword Fragmentation Rate (SFR)
+XLM-R,7736,12078,1.561
+PARSBERT,7736,8261,1.068
+TOOKABERT,7736,8842,1.143
